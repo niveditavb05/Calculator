@@ -1,2 +1,3 @@
 # Calculator
-Simple calculator using javascript
+Simple calculator using HTML
+
